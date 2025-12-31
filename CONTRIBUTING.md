@@ -1,25 +1,25 @@
-# Contributing to ERC Rover Mission Control
+# ERC Rover Görev Kontrol Merkezi'ne Katkıda Bulunma
 
-First off, thank you for considering contributing to the ERC Rover Mission Control project! It's people like you that make high-stakes robotics projects possible and successful.
+Öncelikle, ERC Rover Görev Kontrol Merkezi projesine katkıda bulunmayı düşündüğünüz için teşekkür ederiz! Sizin gibi insanlar, yüksek riskli robotik projelerini mümkün ve başarılı kılıyor.
 
-## How Can I Contribute?
+## Nasıl Katkıda Bulunabilirim?
 
-### Reporting Bugs
-- Check the issues board to see if it's already been reported.
-- If not, create a new issue. Please include details on how to reproduce the bug and your system environment.
+### Hata Bildirme
+- Zaten bildirilip bildirilmediğini görmek için "Issues" (Sorunlar) panosunu kontrol edin.
+- Bildirilmemişse, yeni bir issue oluşturun. Lütfen hatayı yeniden oluşturma adımlarını ve sistem ortamınızı detaylıca belirtin.
 
-### Suggesting Enhancements
-- If you have an idea to improve telemetry visualization or control latency, feel free to open an enhancement request.
+### Geliştirme Önerileri
+- Telemetri görselleştirmesini veya kontrol gecikmesini iyileştirmek için bir fikriniz varsa, bir geliştirme isteği açmaktan çekinmeyin.
 
-### Pull Requests
-- Fork the repo.
-- Create a new branch for your feature or fix.
-- Ensure your code follows the project's style guidelines.
-- Submit a pull request with a detailed explanation of your changes.
+### PullRequest (PR) Gönderme
+- Depoyu fork'layın.
+- Özelliğiniz veya düzeltmeniz için yeni bir branch oluşturun.
+- Kodunuzun projenin stil kılavuzlarına uygun olduğundan emin olun.
+- Değişikliklerinizin detaylı bir açıklamasını içeren bir pull request gönderin.
 
-## Development Setup
-1. Clone the repository.
-2. Install dependencies (see README.md).
-3. Run tests before submitting.
+## Geliştirme Kurulumu
+1. Depoyu klonlayın.
+2. Bağımlılıkları yükleyin (README.md dosyasına bakın).
+3. Göndermeden önce testleri çalıştırın.
 
-Thank you for your support!
+Desteğiniz için teşekkürler!
